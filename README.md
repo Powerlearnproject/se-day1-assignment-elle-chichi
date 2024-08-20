@@ -224,4 +224,4 @@ Engineering is a broad field that applies scientific principles and mathematical
 4. **Continuous Improvement**: Updates and patches protect against new threats.
 5. **Compliance**: Adheres to security standards and best practices.
 
-In short, software engineering ensures secure software through a structured process that includes planning, design, testing, and ongoing maintenance.
+In short, software engineering ensures secure software through a structured process that includes planning, design, testing, and ongoing maintenance. 
